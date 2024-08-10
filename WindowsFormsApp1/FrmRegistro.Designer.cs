@@ -40,6 +40,7 @@
             this.TxtApellido = new System.Windows.Forms.TextBox();
             this.TxtUsuario = new System.Windows.Forms.TextBox();
             this.TxtPassword = new System.Windows.Forms.TextBox();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -151,12 +152,25 @@
             this.TxtPassword.Size = new System.Drawing.Size(224, 32);
             this.TxtPassword.TabIndex = 15;
             // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.Lime;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Font = new System.Drawing.Font("Arial Narrow", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Location = new System.Drawing.Point(620, 311);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(99, 40);
+            this.button1.TabIndex = 16;
+            this.button1.Text = "&Registrar";
+            this.button1.UseVisualStyleBackColor = false;
+            // 
             // FrmRegistro
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightSeaGreen;
             this.ClientSize = new System.Drawing.Size(746, 375);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.TxtPassword);
             this.Controls.Add(this.TxtUsuario);
             this.Controls.Add(this.TxtApellido);
@@ -193,5 +207,6 @@
         private System.Windows.Forms.TextBox TxtApellido;
         private System.Windows.Forms.TextBox TxtUsuario;
         private System.Windows.Forms.TextBox TxtPassword;
+        private System.Windows.Forms.Button button1;
     }
 }
