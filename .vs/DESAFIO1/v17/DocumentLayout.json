@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Heysel\\Documents\\GitHub\\DSP01L\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA12128-721F-45AF-8FF1-7507804CF3D4}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Heysel\\Documents\\GitHub\\DSP01L\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA12128-721F-45AF-8FF1-7507804CF3D4}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA12128-721F-45AF-8FF1-7507804CF3D4}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Heysel\\Documents\\GitHub\\DSP01L\\windowsformsapp1\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA12128-721F-45AF-8FF1-7507804CF3D4}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA12128-721F-45AF-8FF1-7507804CF3D4}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Heysel\\Documents\\GitHub\\DSP01L\\windowsformsapp1\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA12128-721F-45AF-8FF1-7507804CF3D4}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA12128-721F-45AF-8FF1-7507804CF3D4}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\heysel\\documents\\github\\dsp01l\\windowsformsapp1\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAA12128-721F-45AF-8FF1-7507804CF3D4}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA12128-721F-45AF-8FF1-7507804CF3D4}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Heysel\\Documents\\GitHub\\DSP01L\\windowsformsapp1\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA12128-721F-45AF-8FF1-7507804CF3D4}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Heysel\\Documents\\GitHub\\DSP01L\\WindowsFormsApp1\\FrmInicio.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FrmInicio.cs",
+              "ToolTip": "C:\\Users\\Heysel\\Documents\\GitHub\\DSP01L\\WindowsFormsApp1\\FrmInicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsFormsApp1\\FrmInicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T02:14:30.083Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmInicio.cs",
+              "DocumentMoniker": "C:\\Users\\Heysel\\Documents\\GitHub\\DSP01L\\WindowsFormsApp1\\FrmInicio.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FrmInicio.cs",
+              "ToolTip": "C:\\Users\\Heysel\\Documents\\GitHub\\DSP01L\\WindowsFormsApp1\\FrmInicio.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\FrmInicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:56:56.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Heysel\\Documents\\GitHub\\DSP01L\\WindowsFormsApp1\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\Heysel\\Documents\\GitHub\\DSP01L\\WindowsFormsApp1\\FrmLogin.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\FrmLogin.cs",
+              "ViewState": "AQIAAA8AAAAAmpmZmZkVwB0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:06:45.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmRegistro.cs",
+              "DocumentMoniker": "C:\\Users\\Heysel\\Documents\\GitHub\\DSP01L\\WindowsFormsApp1\\FrmRegistro.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FrmRegistro.cs",
+              "ToolTip": "C:\\Users\\Heysel\\Documents\\GitHub\\DSP01L\\WindowsFormsApp1\\FrmRegistro.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\FrmRegistro.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:05:58.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Heysel\\Documents\\GitHub\\DSP01L\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Heysel\\Documents\\GitHub\\DSP01L\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:05:27.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

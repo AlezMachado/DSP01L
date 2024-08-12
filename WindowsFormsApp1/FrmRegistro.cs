@@ -22,7 +22,7 @@ namespace WindowsFormsApp1
 
         private void BtnRegistro_Click(object sender, EventArgs e)
         {
-            user.Register(TxtNombre.Text, TxtApellido.Text, TxtUsuario.Text, TxtPassword.Text);
+           // user.Register(TxtNombre.Text, TxtApellido.Text, TxtUsuario.Text, TxtPassword.Text);
 
             TxtNombre.Clear();
             TxtApellido.Clear();
