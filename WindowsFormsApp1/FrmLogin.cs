@@ -34,8 +34,45 @@ namespace WindowsFormsApp1
 
         private void BtnNuevo_Click(object sender, EventArgs e)
         {
-            FrmRegistro frm = new FrmRegistro();
-            frm.ShowDialog();
+       
+        }
+
+        private void BtnIngresar_Click(object sender, EventArgs e)
+        {
+            if (TxtUsuario.Text == "usuario1" && TxtPassword.Text == "admin1")
+            {
+                FrmEntretenimiento menu_Princ = new FrmEntretenimiento();
+                menu_Princ.ShowDialog();
+            }
+
+            else if (TxtUsuario.Text == "usuario2" && TxtPassword.Text == "admin1")
+            {
+                FrmEntretenimiento menu_Princ = new FrmEntretenimiento();
+                menu_Princ.ShowDialog();
+            }
+
+            else if (TxtUsuario.Text == "usuario3" && TxtPassword.Text == "admin1")
+            {
+                FrmEntretenimiento menu_Princ = new FrmEntretenimiento();
+                menu_Princ.ShowDialog();
+            }
+            else if (TxtUsuario.Text == "usuario4" && TxtPassword.Text == "admin1")
+            {
+                FrmEntretenimiento menu_Princ = new FrmEntretenimiento();
+                menu_Princ.ShowDialog();
+            }
+            else if (TxtUsuario.Text == "usuario5" && TxtPassword.Text == "admin1")
+            {
+                FrmEntretenimiento menu_Princ = new FrmEntretenimiento();
+                menu_Princ.ShowDialog();
+            }
+
+            else
+            {
+                MessageBox.Show("Los datos ingresados son incorrectos, vuelve a ingresar");
+                TxtUsuario.Clear();
+                TxtPassword.Clear();
+            }
         }
     }
 }
