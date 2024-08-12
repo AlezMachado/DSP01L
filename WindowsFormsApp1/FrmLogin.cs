@@ -41,29 +41,29 @@ namespace WindowsFormsApp1
         {
             if (TxtUsuario.Text == "usuario1" && TxtPassword.Text == "admin1")
             {
-                FrmEntretenimiento menu_Princ = new FrmEntretenimiento();
+                FrmInicio menu_Princ = new FrmInicio();
                 menu_Princ.ShowDialog();
             }
 
             else if (TxtUsuario.Text == "usuario2" && TxtPassword.Text == "admin1")
             {
-                FrmEntretenimiento menu_Princ = new FrmEntretenimiento();
+                FrmInicio menu_Princ = new FrmInicio();
                 menu_Princ.ShowDialog();
             }
 
             else if (TxtUsuario.Text == "usuario3" && TxtPassword.Text == "admin1")
             {
-                FrmEntretenimiento menu_Princ = new FrmEntretenimiento();
+                FrmInicio menu_Princ = new FrmInicio();
                 menu_Princ.ShowDialog();
             }
             else if (TxtUsuario.Text == "usuario4" && TxtPassword.Text == "admin1")
             {
-                FrmEntretenimiento menu_Princ = new FrmEntretenimiento();
+                FrmInicio menu_Princ = new FrmInicio();
                 menu_Princ.ShowDialog();
             }
             else if (TxtUsuario.Text == "usuario5" && TxtPassword.Text == "admin1")
             {
-                FrmEntretenimiento menu_Princ = new FrmEntretenimiento();
+                FrmInicio menu_Princ = new FrmInicio();
                 menu_Princ.ShowDialog();
             }
 
