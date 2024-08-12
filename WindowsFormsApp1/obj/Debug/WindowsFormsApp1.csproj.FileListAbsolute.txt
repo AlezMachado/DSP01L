@@ -9,3 +9,18 @@ C:\Users\alexa\Dropbox\UBD2024\DSP\LAB\DESAFIO1\DESAFIO1\WindowsFormsApp1\obj\De
 C:\Users\alexa\Dropbox\UBD2024\DSP\LAB\DESAFIO1\DESAFIO1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\alexa\Dropbox\UBD2024\DSP\LAB\DESAFIO1\DESAFIO1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\alexa\Dropbox\UBD2024\DSP\LAB\DESAFIO1\DESAFIO1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\alexa\Downloads\Alex 01-2024\DSP\DSP\DSP01L\DSP01L\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\alexa\Downloads\Alex 01-2024\DSP\DSP\DSP01L\DSP01L\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bienvenida.resources
+C:\Users\alexa\Downloads\Alex 01-2024\DSP\DSP\DSP01L\DSP01L\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmLogin.resources
+C:\Users\alexa\Downloads\Alex 01-2024\DSP\DSP\DSP01L\DSP01L\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmRegistro.resources
+C:\Users\alexa\Downloads\Alex 01-2024\DSP\DSP\DSP01L\DSP01L\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\alexa\Downloads\Alex 01-2024\DSP\DSP\DSP01L\DSP01L\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\alexa\Downloads\Alex 01-2024\DSP\DSP\DSP01L\DSP01L\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Downloads\Alex 01-2024\DSP\DSP\DSP01L\DSP01L\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\alexa\Downloads\Alex 01-2024\DSP\DSP\DSP01L\DSP01L\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\alexa\Downloads\Alex 01-2024\DSP\DSP\DSP01L\DSP01L\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\alexa\Downloads\Alex 01-2024\DSP\DSP\DSP01L\DSP01L\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\alexa\Downloads\Alex 01-2024\DSP\DSP\DSP01L\DSP01L\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\alexa\Downloads\Alex 01-2024\DSP\DSP\DSP01L\DSP01L\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmEntretenimiento.resources
+C:\Users\alexa\Downloads\Alex 01-2024\DSP\DSP\DSP01L\DSP01L\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmLibros.resources
+C:\Users\alexa\Downloads\Alex 01-2024\DSP\DSP\DSP01L\DSP01L\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmProgramacion.resources

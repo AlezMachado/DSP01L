@@ -54,11 +54,23 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmLibros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLibros.Designer.cs">
+      <DependentUpon>FrmLibros.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmLogin.Designer.cs">
       <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProgramacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProgramacion.Designer.cs">
+      <DependentUpon>FrmProgramacion.cs</DependentUpon>
     </Compile>
     <Compile Include="FrmRegistro.cs">
       <SubType>Form</SubType>
@@ -66,13 +78,28 @@
     <Compile Include="FrmRegistro.Designer.cs">
       <DependentUpon>FrmRegistro.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmEntretenimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEntretenimiento.Designer.cs">
+      <DependentUpon>FrmEntretenimiento.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmEntretenimiento.resx">
+      <DependentUpon>FrmEntretenimiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLibros.resx">
+      <DependentUpon>FrmLibros.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmLogin.resx">
       <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProgramacion.resx">
+      <DependentUpon>FrmProgramacion.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmRegistro.resx">
       <DependentUpon>FrmRegistro.cs</DependentUpon>
